@@ -107,3 +107,5 @@ Your society includes:
 
 > "A ruler should be slow to punish and swift to reward." – *Ovid*
 
+
+Developed By: Yaeesh Khalid
